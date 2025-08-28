@@ -11,3 +11,7 @@
     * [The None keyword](1.-learning-the-basics/data-types/the-none-keyword.md)
     * [Booleans](1.-learning-the-basics/data-types/booleans.md)
     * [Dynamic Typing](1.-learning-the-basics/data-types/dynamic-typing.md)
+  * [Arithmetic Operators](1.-learning-the-basics/arithmetic-operators/README.md)
+    * [Precedence](1.-learning-the-basics/arithmetic-operators/precedence.md)
+    * [Mixing types](1.-learning-the-basics/arithmetic-operators/mixing-types.md)
+    * [Modulus and Floor Division](1.-learning-the-basics/arithmetic-operators/modulus-and-floor-division.md)
