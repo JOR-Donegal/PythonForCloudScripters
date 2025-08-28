@@ -8,3 +8,6 @@
     * [Determining Type](1.-learning-the-basics/data-types/determining-type.md)
     * [Floating Point Errors](1.-learning-the-basics/data-types/floating-point-errors.md)
     * [Strings](1.-learning-the-basics/data-types/strings.md)
+    * [The None keyword](1.-learning-the-basics/data-types/the-none-keyword.md)
+    * [Booleans](1.-learning-the-basics/data-types/booleans.md)
+    * [Dynamic Typing](1.-learning-the-basics/data-types/dynamic-typing.md)
