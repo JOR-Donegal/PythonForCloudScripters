@@ -34,3 +34,8 @@
   * [Tuples](3.-data-structures/tuples.md)
   * [Dictionaries](3.-data-structures/dictionaries.md)
   * [Sets](3.-data-structures/sets.md)
+* [4. Loops and Statements](4.-loops-and-statements/README.md)
+  * [If, Elif and Else](4.-loops-and-statements/if-elif-and-else.md)
+  * [Loops](4.-loops-and-statements/loops.md)
+  * [While Loops](4.-loops-and-statements/while-loops.md)
+  * [List Comprehensions](4.-loops-and-statements/list-comprehensions.md)
