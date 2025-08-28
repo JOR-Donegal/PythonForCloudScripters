@@ -12,7 +12,7 @@ Dictionaries have a key pair format, uniquely identifying each entry, without ne
 
 For example:
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 If I need the value of the key name, I retrieve it by key, not by its index.&#x20;
 
@@ -22,11 +22,11 @@ Keys must always be strings.
 
 I can add a key:value pair to the dictionary as follows.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 I can edit any individual value in place. I have added comments to break up the code.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 A dictionary can hold any type of object, for example, other dictionaries or lists.&#x20;
 

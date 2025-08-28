@@ -94,15 +94,15 @@ I press \[ctrl]\[shift]\[p] and then type interpreter into the command box, to s
 
 VSCode detects what I have done and asks me if I want to use this venv for this folder. I click **yes**.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 I can now see a new folder called myvenv, with all the normal content of a venv.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Restart the terminal for it to use the venv. Close the existing terminal window and type \[ctrl]\[j] to open a new terminal. Unfortunately, it doesn't show a venv prompt, but it is working!
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 Now I can install my requirements for this project. In the terminal,&#x20;
 

@@ -61,7 +61,7 @@ In the examples, I have used functions, but I've also created and used variables
 
 For example, the graphing library matplotlib is typically imported as plt, making code more economical and readable. In case you are lost, I have used the tree command to map my directory structure for this exercise so far.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 In a large project, I may have several packages which I call, and I need to keep track of all of them.&#x20;
 
