@@ -15,3 +15,6 @@
     * [Precedence](1.-learning-the-basics/arithmetic-operators/precedence.md)
     * [Mixing types](1.-learning-the-basics/arithmetic-operators/mixing-types.md)
     * [Modulus and Floor Division](1.-learning-the-basics/arithmetic-operators/modulus-and-floor-division.md)
+  * [Comparison Operators](1.-learning-the-basics/comparison-operators.md)
+  * [Logical and Boolean Operators](1.-learning-the-basics/logical-and-boolean-operators.md)
+  * [Coding with operators](1.-learning-the-basics/coding-with-operators.md)
