@@ -29,3 +29,8 @@
   * [Docstrings](2.-documentation/docstrings.md)
   * [Writing Docstrings](2.-documentation/writing-docstrings.md)
   * [Finally](2.-documentation/finally.md)
+* [3. Data Structures](3.-data-structures/README.md)
+  * [Lists](3.-data-structures/lists.md)
+  * [Tuples](3.-data-structures/tuples.md)
+  * [Dictionaries](3.-data-structures/dictionaries.md)
+  * [Sets](3.-data-structures/sets.md)
