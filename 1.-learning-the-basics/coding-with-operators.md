@@ -13,6 +13,6 @@ I want to move away now from using the Python interpreter directly. I'm going to
 
 I created a very contrived programme to assign values to variables and print out the result. Using the same approach, write a programme to calculate your budget (budget.py) and expenditure for this semester. Do not use real numbers, keep this fictional!
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Save your script, you will need to upload it later.

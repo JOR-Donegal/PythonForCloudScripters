@@ -20,3 +20,6 @@
   * [Coding with operators](1.-learning-the-basics/coding-with-operators.md)
   * [Coding with Strings](1.-learning-the-basics/coding-with-strings/README.md)
     * [String Interpolation](1.-learning-the-basics/coding-with-strings/string-interpolation.md)
+    * [Line feed and carriage return](1.-learning-the-basics/coding-with-strings/line-feed-and-carriage-return.md)
+    * [Escape Sequences](1.-learning-the-basics/coding-with-strings/escape-sequences.md)
+    * [String Functions](1.-learning-the-basics/coding-with-strings/string-functions.md)

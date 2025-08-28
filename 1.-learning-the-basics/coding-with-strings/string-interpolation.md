@@ -2,7 +2,7 @@
 
 We can concatenate strings using + to give text and a variable.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the old days, we used the .format() method. You define a string and place {} wherever you want to insert variables.
 
