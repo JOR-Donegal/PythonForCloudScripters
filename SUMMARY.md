@@ -93,3 +93,5 @@
     * [Testing](11.-network-utilities/tcp/testing.md)
   * [Multicast](11.-network-utilities/multicast/README.md)
     * [Testing](11.-network-utilities/multicast/testing.md)
+  * [NTP](11.-network-utilities/ntp.md)
+  * [Finally](11.-network-utilities/finally.md)
