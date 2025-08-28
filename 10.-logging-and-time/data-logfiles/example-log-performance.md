@@ -1,4 +1,4 @@
-# Example
+# Example - Log Performance
 
 I need to do&#x20;
 

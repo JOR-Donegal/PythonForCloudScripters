@@ -81,4 +81,4 @@
   * [System Logfiles](10.-logging-and-time/system-logfiles.md)
   * [Data Logfiles](10.-logging-and-time/data-logfiles/README.md)
     * [Writing Main](10.-logging-and-time/data-logfiles/writing-main.md)
-    * [Example](10.-logging-and-time/data-logfiles/example.md)
+    * [Example - Log Performance](10.-logging-and-time/data-logfiles/example-log-performance.md)
