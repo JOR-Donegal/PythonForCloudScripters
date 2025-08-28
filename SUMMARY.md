@@ -18,3 +18,5 @@
   * [Comparison Operators](1.-learning-the-basics/comparison-operators.md)
   * [Logical and Boolean Operators](1.-learning-the-basics/logical-and-boolean-operators.md)
   * [Coding with operators](1.-learning-the-basics/coding-with-operators.md)
+  * [Coding with Strings](1.-learning-the-basics/coding-with-strings/README.md)
+    * [String Interpolation](1.-learning-the-basics/coding-with-strings/string-interpolation.md)
