@@ -4,11 +4,11 @@ Tuples are like lists, but immutable. Once an element has been assigned to a tup
 
 Tuples are defined by regular brackets.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 There are some standard methods like count() and index().
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 I do not use tuples much but if I need to ensure integrity of a data set, they are perfect. It will not be possible to accidently change one value.&#x20;
 
