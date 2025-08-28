@@ -13,7 +13,7 @@ logging.error('Error message')
 logging.critical('Critical message')
 </code></pre>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 The format is Level, Logger, Message. The name of the default logger is **root**.
 

@@ -24,6 +24,6 @@ if __name__ =="__main__":
 
 I need to run the test from the command prompt; it passes!
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Note that **-m** runs a library module (unittest) as a script.

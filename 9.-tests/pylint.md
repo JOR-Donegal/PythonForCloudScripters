@@ -17,7 +17,7 @@ print(a+B)
 print(a+c)
 </code></pre>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Wow, it gave me 0/10 marks!&#x20;
 
@@ -30,7 +30,7 @@ Review Pylint [here](https://pylint.pycqa.org/en/latest/tutorial.html).
 
 Rewrite my simple code and get as close as you can to 10/10. Make any assumptions you need. I wrote and saved as **pylint2.py**
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 It took me a few goes looking at the test before I got full marks.&#x20;
 
