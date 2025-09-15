@@ -4,8 +4,17 @@ We use markdown files as a simple way to write documentation, and there is alway
 
 I use headings, bold, italics, hyperlinks etc. You can do more complex things with markdown, but its supposed to be simple.
 
-This is a rendered **readme.md** from one of my current projects, feel free to criticize!
+Typically, I might use the following headings.
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+* Title
+* Description
+* How to install and run the project
+* Dependencies
+* Table of contents with links
+* Credits
+* License
+* How to contribute
+* Tests
 
-This is incomplete and doesn't meet typical best practices.
+
+
