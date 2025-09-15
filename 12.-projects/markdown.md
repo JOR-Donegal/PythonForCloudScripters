@@ -16,5 +16,7 @@ Typically, I might use the following headings.
 * How to contribute
 * Tests
 
+Tailor this to your own projct!
 
+The big picture is that I should be able to fully understand the project from this page.
 
