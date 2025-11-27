@@ -4,4 +4,7 @@ Python is dynamically typed, so I could easily pass a string to the function and
 
 ```
 def calculate_circumference(radius: float) -> float:
+    return radius * 2 * 3.142
+
+print(calculate_circumference(5))
 ```
