@@ -6,7 +6,9 @@ In the earliest days of computing, one of the first things we realized, is that 
 
 If it is raining, switch on the windscreen wipers!&#x20;
 
-We might use the console or Notepad++ to write a quick script, but for deliberate work, we are always going to use a proper editor. For writing commercial code, I use PyCharm. However, for these sessions, we are going to move to Visual Studio Code.&#x20;
+We might use the console or Notepad++ to write a quick script, but for deliberate work, we are always going to use a proper editor. For writing commercial code, I use PyCharm.&#x20;
+
+**However, for these sessions, we are going to move to Visual Studio Code.**&#x20;
 
 During this walkthrough, I am going to introduce important concepts in Python; colons and indentation. Look out for this, and make sure you fully understand it. You really cannot proceed without this basic knowledge.
 

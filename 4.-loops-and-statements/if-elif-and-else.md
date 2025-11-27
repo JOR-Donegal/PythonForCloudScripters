@@ -2,7 +2,7 @@
 
 The first conditional statement we will consider is the if statement. This is also one of the oldest statements used in high level languages.
 
-1. I have opened VSC and created a new directory C:\Python\Exercise\_03
+1. I have opened Visual Studio Code and created a new directory C:\Python\Exercise\_04
 2. I have created a file, my\_if.py
 3. Over the next few minutes, I am going to build a code template I can use in any project.
 4. In Python, control flow is determined by colons (:) and indentation. Indentation must be perfect, or you will generate errors when you try to run the program. Way back, people used spaces (how many?) and tabs interchangeably.&#x20;
