@@ -2,15 +2,15 @@
 
 To help organize modules and provide a naming hierarchy, Python has the concept of packages.&#x20;
 
-Packages are just collections of modules, and we normally keep them in a separate directory. We add an empty file with the filename **\_\_init.py\_\_** to signal to Python that this is a package. Under the folder Exercises\_06, I create a folder called **mylib**. Under this folder, I create an empty file called **\_\_init.py\_\_** marking this as a package.&#x20;
+Packages are just collections of modules, and we normally keep them in a separate directory. We add an empty file with the filename **\_\_init\_\_.py** to signal to Python that this is a package. Under the folder Exercises\_06, I create a folder called **mylib**. Under this folder, I create an empty file called **\_\_init\_\_.py** marking this as a package.&#x20;
 
-I add the following line to \_\_**init**.py\_\_&#x20;
+I add the following line to **\_\_init\_\_.py**&#x20;
 
 ```
 copyright = "© JOR 2024" 
 ```
 
-This is now a global variable accessible throughout. There are much more useful things to put into **\_\_init.py\_\_** but I’ll leave you to figure that out as your coding skills develop.
+This is now a global variable accessible throughout. There are much more useful things to put into **\_\_init\_\_.py** but I’ll leave you to figure that out as your coding skills develop.
 
 Under the folder Exercises\_06, I create and test a file called **project1.py** as shown.
 
